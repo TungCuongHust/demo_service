@@ -1,0 +1,1 @@
+## Lý do dùng express vì có tích hợp sẵn webserver, dễ dùng, nhanh, linh hoạt.
